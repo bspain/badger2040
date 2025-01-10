@@ -1,5 +1,5 @@
 mustelid inc
-H. Badger
+Ben Spain
 RP2040
 2MB Flash
 E ink
